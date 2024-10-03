@@ -1,3 +1,4 @@
+//el codigo imprimira la capital del pais que escribas, en caso de escribir un pais que no cuente en la base de datos te preguntara su capital a la cual almacenara en el hashmap y estara disponible
 import java.util.HashMap;//importar el jashmap
 import java.util.Scanner;//importar el scanner
 
